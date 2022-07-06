@@ -1,8 +1,6 @@
 # MRRFDeathRacers
 Repository containing useful information for MRRF Death Racers.
 
-This repository contains useful info for building a MRRF racer.
-
 To get started:
 
 <b>Step 1. Join Michael Baddeley's Patreon to get STL files and overview info.</b> 
