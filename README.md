@@ -1,13 +1,15 @@
-# MRRFDeathRacers
+# MRRF Death Racers
 Repository containing useful information for MRRF Death Racers.
 
 To get started:
 
 <b>Step 1. Join Michael Baddeley's Patreon to get STL files and overview info.</b> 
+
 After joining, go this page and scroll to the bottom where it says "The link to my  Ondedrive is…"
 https://www.patreon.com/mrbaddeley/membership
 
 <b>Step 2. Watch the Build Video.</b> 
+
 Detailed Build Video:
 https://www.youtube.com/watch?v=eL_KUPhg6RI
 
