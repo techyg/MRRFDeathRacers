@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=eL_KUPhg6RI
 
 Step 3. View the BOM (separate file in this repository)
 
-Step 4. Get printing!
+<b>Step 4. Print Settings!<b>
 
 Recommended Print Settings
 Drive: 20-30% infill, 5 walls - You want these parts sturdy/strong. 
