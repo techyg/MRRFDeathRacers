@@ -49,10 +49,11 @@ Toggle Switch: https://www.amazon.com/dp/B07T6XWZKN
 
 XT60 Connectors for Battery: https://www.amazon.com/dp/B07VRZR5TL/
 
-<b>Step 4. Print Settings!</b>
+<b>Step 4. Print your parts!</b>
 
 Recommended Print Settings
 Drive: 20-30% infill, 5 walls - You want these parts sturdy/strong. 
+
 TPU Tracks: 5% infill, 3 walls - Go slow on perimiters (no more than 15 mm/sec) otherwise you may have cooling issues.
 
 <b>Step 5. Wiring</b>
