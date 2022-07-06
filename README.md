@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=eL_KUPhg6RI
 
 <b>Step 3. Order from the BOM </b>
 
-<b>?United States BOM</b>
+<b>United States BOM</b>
 
 2 Rolls of PLA, PLA+ or PETG (PETG Recommended)  - I used GreenGate PETG but any will do
 
