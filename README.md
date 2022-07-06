@@ -8,6 +8,9 @@ To get started:
 After joining, go this page and scroll to the bottom where it says "The link to my  Ondedrive is…"
 https://www.patreon.com/mrbaddeley/membership
 
+Additional Files:
+Side Plate - https://www.facebook.com/download/1267429367127478/3DprintingNerd.stl?av=570342076&eav=Afagm3PyZGv90ar5WwzW5Ufn0bWlG_SPmqcjcBAm6d7vF-QsLB8LQKgOe0gdEGvXNGo&paipv=0&hash=AcqjusWfmoL6vFerwsE&__cft__[0]=AZVZgSCULukQS-57Vqnhupl3-wHmnm5pAudSHMGYFL-v5-uh8cmu33Kujld0902SOFOt9gpbhjIc7dMBa2RAOBH6HxAdU-1Fk7L8RhwkPXnQPA7y7etIyuNvK9uyoSgVz2m5YMyjU2Y1zh99f3AShPyVMXsvKhI4m-MXwYc0Zr73ssKpnt6vH8y4kNTm_ZueZfNSvXv0Lzmchw2EjKH9M4XP&__tn__=H-R
+
 <b>Step 2. Watch the Build Video.</b> 
 
 Detailed Build Video:
