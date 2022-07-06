@@ -12,7 +12,9 @@ Detailed Build Video:
 https://www.youtube.com/watch?v=eL_KUPhg6RI
 
 <b>Step 3. Order from the BOM </b>
-US Links:
+
+<b>?United States BOM</b>
+
 2 Rolls of PLA, PLA+ or PETG (PETG Recommended)  - I used GreenGate PETG but any will do
 
 1 Roll of TPU - I used Sainsmart TPU (95A) https://www.amazon.com/SainSmart-Flexible-Printing-Filament-Dimensional/dp/B00TI3JUTM/
