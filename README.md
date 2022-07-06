@@ -15,6 +15,8 @@ https://www.youtube.com/watch?v=eL_KUPhg6RI
 
 <b>Step 3. Order from the BOM </b>
 
+Plan to budget around $300-$500 for this build. You will be on the lower end of that budget if you already have supplies (filament, RC Radio, spare wiring, etc.).
+
 <b>United States BOM</b>
 
 2 Rolls of PLA, PLA+ or PETG (PETG Recommended)  - I used GreenGate PETG but any will do
@@ -50,6 +52,8 @@ Toggle Switch: https://www.amazon.com/dp/B07T6XWZKN
 100pcs 2mm Rod Axle: https://www.amazon.com/dp/B07D2WSF29 
 
 XT60 Connectors for Battery: https://www.amazon.com/dp/B07VRZR5TL/
+
+FlySky 6 Channel Radio with Reciever: https://www.amazon.com/dp/B0744DPPL8/
 
 <b>Step 4. Print your parts!</b>
 
