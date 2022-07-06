@@ -52,6 +52,9 @@ XT60 Connectors for Battery: https://www.amazon.com/dp/B07VRZR5TL/
 <b>Step 4. Print your parts!</b>
 
 Recommended Print Settings
+
+I suggest .20 layer height for all printed parts for a good balance of strength and print time.
+
 Drive: 20-30% infill, 5 walls - You want these parts sturdy/strong. 
 
 TPU Tracks: 5% infill, 3 walls - Go slow on perimiters (no more than 15 mm/sec) otherwise you may have cooling issues.
