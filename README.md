@@ -15,6 +15,9 @@ https://www.youtube.com/watch?v=eL_KUPhg6RI
 
 <b>Step 3. Order from the BOM </b>
 
+This BOM is based on Sam Prentice's spreadsheet here:
+https://onedrive.live.com/?cid=e0240f3f28326535&id=E0240F3F28326535%21318&authkey=%21AEoHqmPpPdt6YsE![image](https://user-images.githubusercontent.com/22796810/177439761-63208eed-d35c-4b13-82d8-b14b2e9d7edf.png)
+
 Plan to budget around $300-$500 for this build. You will be on the lower end of that budget if you already have supplies (filament, RC Radio, spare wiring, etc.).
 
 <b>United States BOM</b>
@@ -54,6 +57,8 @@ Toggle Switch: https://www.amazon.com/dp/B07T6XWZKN
 XT60 Connectors for Battery: https://www.amazon.com/dp/B07VRZR5TL/
 
 FlySky 6 Channel Radio with Reciever: https://www.amazon.com/dp/B0744DPPL8/
+
+6mm Bar : (TBD)
 
 <b>Step 4. Print your parts!</b>
 
