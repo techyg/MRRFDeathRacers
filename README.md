@@ -30,7 +30,7 @@ https://www.patreon.com/mrbaddeley/membership
 
 # Planning Colors
 
-Pro Tip: Depending on your budget and how adventerous you are feeling, you may want to plan your colors. The BOM recommends 2 rolls of PETG but you may want more than that. For example, 1 color for the drive parts, another for the front frame and bike seat, a 3rd color for "trim" as well as a 4th color for the Rider and possibly even more for accents. There is a link to the Fusion 360 files in the Instructions, which are located in the Onedrive folder. You will need a password to access it which is also in the instructions. This is useful if you want to browse to see what the part names are, and how things go together. This is also handy for planning the colors of your prints as well. 
+Pro Tip: Depending on your budget and how adventerous you are feeling, you may want to plan your colors. The BOM recommends 2 rolls of PETG but you may want more than that. For example, 1 color for the drive parts, another for the front frame and bike seat, a 3rd color for "trim" as well as a 4th color for the Rider and possibly even more for accents. There is a link to the Fusion 360 files in the Instructions, which are located in the Onedrive folder. You will need a password to access it which is also in the instructions. This is useful if you want to browse to see what the part names are, and how things go together, and example colors of different parts. You can click on the part to see the name.  The Fusion 360 file has 4 different colors as of the present time of writing.
 
 Additional 3d printed files not in the Onedrive. Note: These may require a Facebook log in.
 
