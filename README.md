@@ -1,7 +1,7 @@
 # MRRF Death Racers
 Repository containing useful information for MRRF Death Racers.
 
-#*** Important **** Before you get started, things to know:
+# *** Important **** Before you get started, things to know:
 
 You are going to be printing A LOT. Depending on the # of printers you have, and how much you want to put on your build plate at a time, plan on taking 1-2 weeks to print parts, and quite possibly longer. 
 
