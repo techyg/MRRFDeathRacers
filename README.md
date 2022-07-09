@@ -42,7 +42,12 @@ https://www.facebook.com/download/591689459241460/Polymaker%20_%20SidePlate.stl?
 # <b>Step 2. Watch the Build Video.</b> 
 
 Detailed Build Video:
+
 https://www.youtube.com/watch?v=eL_KUPhg6RI
+
+Death Racers as seen at MRRF (Where it all started!):
+
+https://www.youtube.com/watch?v=PqwJk8rcAIU&t=0s
 
 I recommend using the instructions in the Onedrive along side with the video. It provides all the screw sizes that you will need for each step. Please note that you will need counter sunk (also called flat head) m3 screws, see the BOM for an example kit.
 
