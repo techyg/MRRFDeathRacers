@@ -13,11 +13,11 @@ Also make sure your first layer z height is tuned sufficiently so you have good 
 If you really want your prints to look "amazing" also consider calibrating Pressure Advance (PA, on Klipper and RepRap Firmware) or Linear Advance (Marlin) as well as Input Shaper / Resonance Compensation. This can be a real rabbit hole, but the effort pays off. Here is a good resource for Klipper users that want to tune more advanced features:
 https://github.com/AndrewEllis93/Print-Tuning-Guide
 
-Your printer will need to be able to print the biggest file, which is called "MainFrame.STL". The dimensions of the largest file is: 237.9 (x) x 184.52 (y) x 47.34 (z) mm. You may be able to rotate this to fit your print bed.
+Your printer will need to be able to print the biggest file, which is called "MainFrame.STL". The dimensions of the largest file is: 237.9 (x) x 184.52 (y) x 47.34 (z) mm. You may be able to rotate this to fit your print bed. 
 
 You will also need to print TPU for the tracks. You can use a "Fast" tpu such as Sainsmart, or really anything with a Shore Hardness of 95A. Most printers (even bowden drives, like the Prusa Mini) will be able to print this without too much difficulty but it may require some profile tuning particularly around retraction and retraction speed.  Ask in the Facebook group.
 
-There are a lot of different RC Radio options. I recommend the FlySky radio with the 6 channel receiver (which should be included). This is a basic radio but will work nicely with this build. 
+There are a lot of different RC Radio options. I recommend the FlySky radio with the 6 channel receiver (which should be included). This is a basic radio but will work nicely with this build and included in the BOM below. 
 
 Last but not least: PETG and TPU are both hygroscopic filaments, meaning they will suck in the humidity in the air. If you notice poor surface layer quality, bad layer or excessive stringing this is a sign that your filament may be "wet". You should dry your filament out. There are options for filament dryers and you can also use a food dehydrator. Plan on drying out for at least 2-3 hours at a temp of 125-130C. 
 
