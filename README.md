@@ -3,9 +3,9 @@ Repository containing useful information for MRRF Death Racers.
 
 *** Important **** Before you get started, things to know:
 
-You are going to be printing A LOT. Make sure you tune your printer before going into this project so that you are neither under or over extruding. Here are a few useful calibration guides. Depending on the # of printers you have, and how much you want to put on your build plate at a time, plan on taking 1-2 weeks to print parts. 
+You are going to be printing A LOT. Depending on the # of printers you have, and how much you want to put on your build plate at a time, plan on taking 1-2 weeks to print parts. 
 
-Before starting to print it is a good idea to ensure that your prints are dimensionally accurate. There are some tolerances that will accomodate a little bit of under or over extrusion, but it's best to be as dimensionally accurate as possible to avoid issues. Here is a good article on calibrating your extrusion multiplier by Prusa:
+Before starting to print it is a good idea to ensure that your printed parts are dimensionally accurate. There are some tolerances that will accomodate a little bit of under or over extrusion, but it's best to be as dimensionally accurate as possible to avoid issues. Here is a good article on calibrating your extrusion multiplier by Prusa:
 https://help.prusa3d.com/article/extrusion-multiplier-calibration_2257
 
 Also make sure your first layer z height is tuned sufficiently so you have good adhesion. You don't want to lose a print because it came lose. Consider using a brim on the larger parts with small surface contact to reduce curling.
@@ -18,6 +18,8 @@ Your printer will need to be able to print the biggest file, which is called "Ma
 You will also need to print TPU for the tracks. You can use a "Fast" tpu such as Sainsmart, or really anything with a Shore Hardness of 95A. Most printers (even bowden drives, like the Prusa Mini) will be able to print this without too much difficulty but it may require some profile tuning particularly around retraction and retraction speed.  Ask in the Facebook group.
 
 There are a lot of different RC Radio options. I recommend the FlySky radio with the 6 channel receiver (which should be included). This is a basic radio but will work nicely with this build. 
+
+Last but not least: PETG and TPU are both hygroscopic filaments, meaning they will suck in the humidity in the air. If you notice poor surface layer quality, bad layer or excessive stringing this is a sign that your filament may be "wet". You should dry your filament out. There are options for filament dryers and you can also use a food dehydrator. Plan on drying out for at least 2-3 hours at a temp of 125-130C. 
 
 *** Getting Started ***
 
