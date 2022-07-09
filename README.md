@@ -9,19 +9,22 @@ After joining, go this page and scroll to the bottom where it says "The link to 
 https://www.patreon.com/mrbaddeley/membership
 
 Additional 3d printed files not in the Onedrive:
+
+Blank side plate:
+https://www.facebook.com/download/3419853774930152/Blank%20Side%20Plate%20Option.stl?av=570342076&eav=AfZNd2QF1y4ff55FL8Okbn5YhkQt-acM1M5XMSw63-DsLTQFdwjmCWFdhU0GB7Lq5So&paipv=0&hash=AcoL9mXFBv-cLIA-3AU&__cft__[0]=AZVck69kDNAClarfsAUE460D-dK5t1sHkS_k4UYZw7vFuXa4zHiz58pAUdedtUspZUCa93kNoU8vuSsv7ibVDILkg9jZKHHYJ385bv_mn2BR3T9a9YR0QapjfFjIqUD19R0LytrUz_fDpauwaT9inX8qbla5pV2rKW5rhJ1Kb-rz3VNY6IbCnSapaSplPVeHwII5g-dvd0g3doR-bnOspG2T&__tn__=H-R
+
 3D Printing Nerd Side Plate:
 https://www.facebook.com/download/1267429367127478/3DprintingNerd.stl?av=570342076&eav=AfYbXdrg756xKTd13p4MpS9W7h0dGt1HgohSjYj8qzJNzoM0SWD1c84d5e_L2pYqQ7Y&paipv=0&hash=Acrwg3kO534-KVf7PYU&__cft__[0]=AZVtagHHSABhSGggIyOj_UyBcAqIPwESP22waT8Jg1VQHSLy2IcPYgknPPPTbod-3X1IHC0EzrQ4SoTkAAiw9aPiUX2t3mGZpmLUCVwzcko51MOTTndRZnGjYyJz1qsKVEhJt04bd9vGhvA53wuWeAZmcybPsgrnEVPMfdihqkFZUjZhAIvY8CeFlnfd-hZmcsWqmTtbxJCUVytSPmx_N3Yl&__tn__=H-R
 
 Polymaker Side Plate:
 https://www.facebook.com/download/591689459241460/Polymaker%20_%20SidePlate.stl?av=570342076&eav=AfYqRaAjXAt9-dKzwiOoh3t8yHMnS2ZeYTcZEubKjMXUPvvuSQBKaAXnvTH7gLr3yRo&paipv=0&hash=AcpUPY9W3UU5aSn-9ik&__cft__[0]=AZXuHFQJoCWSf_E4bXoCHWTgsm9mnkWLuRY9qnF0PGvWp5bCCEhZ610XxR3IPNecfu6rDLzGz-oAlK5hUmNJzbT0XCJyt0qC02LMvv5LyRFInS6UAOl9iTvoLFwOgJnCfYbiwXP20aqQ_D3H36L9CSVS0vg708vSXaVssXrCb_49jCNEIoeezQ61mw5qhd_uL36z-Soyf49cLHkEqjM9z4L2&__tn__=H-R
 
-Blank side plate:
-https://www.facebook.com/download/3419853774930152/Blank%20Side%20Plate%20Option.stl?av=570342076&eav=AfZNd2QF1y4ff55FL8Okbn5YhkQt-acM1M5XMSw63-DsLTQFdwjmCWFdhU0GB7Lq5So&paipv=0&hash=AcoL9mXFBv-cLIA-3AU&__cft__[0]=AZVck69kDNAClarfsAUE460D-dK5t1sHkS_k4UYZw7vFuXa4zHiz58pAUdedtUspZUCa93kNoU8vuSsv7ibVDILkg9jZKHHYJ385bv_mn2BR3T9a9YR0QapjfFjIqUD19R0LytrUz_fDpauwaT9inX8qbla5pV2rKW5rhJ1Kb-rz3VNY6IbCnSapaSplPVeHwII5g-dvd0g3doR-bnOspG2T&__tn__=H-R
-
 <b>Step 2. Watch the Build Video.</b> 
 
 Detailed Build Video:
 https://www.youtube.com/watch?v=eL_KUPhg6RI
+
+I recommend using the instructions in the Onedrive along side with the video. It provides all the screw sizes that you will need for each step. Please note that you will need counter sunk (also called flat head) m3 screws, see the BOM for an example kit.
 
 <b>Step 3. Order from the BOM </b>
 
