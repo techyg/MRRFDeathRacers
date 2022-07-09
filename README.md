@@ -17,7 +17,6 @@ https://www.facebook.com/download/591689459241460/Polymaker%20_%20SidePlate.stl?
 
 Blank side plate:
 https://www.facebook.com/download/3419853774930152/Blank%20Side%20Plate%20Option.stl?av=570342076&eav=AfZNd2QF1y4ff55FL8Okbn5YhkQt-acM1M5XMSw63-DsLTQFdwjmCWFdhU0GB7Lq5So&paipv=0&hash=AcoL9mXFBv-cLIA-3AU&__cft__[0]=AZVck69kDNAClarfsAUE460D-dK5t1sHkS_k4UYZw7vFuXa4zHiz58pAUdedtUspZUCa93kNoU8vuSsv7ibVDILkg9jZKHHYJ385bv_mn2BR3T9a9YR0QapjfFjIqUD19R0LytrUz_fDpauwaT9inX8qbla5pV2rKW5rhJ1Kb-rz3VNY6IbCnSapaSplPVeHwII5g-dvd0g3doR-bnOspG2T&__tn__=H-R
-![image](https://user-images.githubusercontent.com/22796810/178087077-c85512e4-161d-4f56-acc2-5ed50243bc9f.png)
 
 <b>Step 2. Watch the Build Video.</b> 
 
