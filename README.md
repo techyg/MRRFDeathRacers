@@ -101,3 +101,22 @@ TPU Tracks: 5% infill, 3 walls - Go slow on perimiters (no more than 15 mm/sec) 
 Wiring Diagram (From Sam Prentice on Facebook):
 https://www.facebook.com/photo/?fbid=10159945649265867&set=gm.441888027512518
 
+# Assembly Tips
+
+If you have difficulty fitting your battery in, you can use a small file, exacto knife, or deburring tool to trim plastic off the "lip" at the back of the frame. I ended up shaving off about 1.5-2mm of plastic in order to get my battery to fit, as it was otherwise too tight to go in.
+
+# RC Controller Tips
+
+I used the FlySky FS-I6 radio. In order to bind the radio, place the bind plug on the receiver, power it up from the board (connected to RX 1). Power on your radio while holding the bind button. You should hear a beep and see RX Bound immediately. If it's not binding, go into your radio setup (hold down the up button) and make sure that AFHDS is enabled. 
+
+Bind procedure here:
+https://www.youtube.com/watch?v=xRmlNQ3M3zE
+
+Setting up a new model:
+https://www.youtube.com/watch?v=9-Z0rTVEkHI
+
+
+
+
+
+
