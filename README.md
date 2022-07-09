@@ -8,7 +8,7 @@ You are going to be printing A LOT. Depending on the # of printers you have, and
 Before starting to print it is a good idea to ensure that your printed parts are dimensionally accurate. There are some tolerances that will accomodate a little bit of under or over extrusion, but it's best to be as dimensionally accurate as possible to avoid issues. Here is a good article on calibrating your extrusion multiplier by Prusa:
 https://help.prusa3d.com/article/extrusion-multiplier-calibration_2257
 
-Also make sure your first layer z height is tuned sufficiently so you have good adhesion. You don't want to lose a print because it came lose. Consider using a brim on the larger parts with small surface contact to reduce curling.
+Also make sure your first layer z height is tuned sufficiently so you have good adhesion. You don't want to lose a print because it came loose. Consider using a brim on the larger parts with small surface contact to reduce curling.
 
 If you really want your prints to look "amazing" also consider calibrating Pressure Advance (PA, on Klipper and RepRap Firmware) or Linear Advance (Marlin) as well as Input Shaper / Resonance Compensation. This can be a real rabbit hole, but the effort pays off. Here is a good resource for Klipper users that want to tune more advanced features:
 https://github.com/AndrewEllis93/Print-Tuning-Guide
