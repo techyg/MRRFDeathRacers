@@ -30,7 +30,7 @@ https://www.patreon.com/mrbaddeley/membership
 
 # Planning Colors
 
-Pro Tip: Depending on your budget and how adventerous you are feeling, you may want to plan your colors. The BOM recommends 2 rolls of PETG but you may want more than that. For example, 1 color for the drive parts, another for the front frame and bike seat, a 3rd color for "trim" as well as a 4th color for the Rider and possibly even more for accents. There is a link to the Fusion 360 files in the Instructions, which are located in the Onedrive folder. You will need a password to access it which is also in the instructions. This is useful if you want to browse to see what the part names are, and how things go together, and example colors of different parts. You can click on the part to see the name.  The Fusion 360 file has 4 different colors as of the present time of writing.
+Depending on your budget and how adventerous you are feeling, you may want to plan your colors. The BOM recommends 2 rolls of PETG but you may want more than that. For example, 1 color for the drive parts, another for the front frame and bike seat, a 3rd color for "trim" as well as a 4th color for the Rider and possibly even more for accents. There is a link to the Fusion 360 files in the Instructions, which are located in the Onedrive folder. You will need a password to access it which is also in the instructions. This is useful if you want to browse to see what the part names are, and how things go together, and example colors of different parts. You can click on the part to see the name.  The Fusion 360 file has 4 different colors as of the present time of writing.
 
 Additional 3d printed files not in the Onedrive. Note: These may require a Facebook log in.
 
@@ -105,9 +105,11 @@ https://www.facebook.com/photo/?fbid=10159945649265867&set=gm.441888027512518
 
 If you have difficulty fitting your battery in, you can use a small file, exacto knife, or deburring tool to trim plastic off the "lip" at the back of the frame. I ended up shaving off about 1.5-2mm of plastic in order to get my battery to fit, as it was otherwise too tight to go in.
 
+Take your time during assembly. The manual tells you which size screw to use for the most part, other times you might need to just figure it out. You will need an m3 driver, and most screws can/should be done by hand. There a few parts (ex. 50mm screws that go into the wheels) that I'd recommend using a very low powered drill otherwise your hand is going to get very sore. 
+
 # RC Controller Tips
 
-I used the FlySky FS-I6 radio. In order to bind the radio, place the bind plug on the receiver, power it up from the board (connected to RX 1). Power on your radio while holding the bind button. You should hear a beep and see RX Bound immediately. If it's not binding, go into your radio setup (hold down the up button) and make sure that AFHDS is enabled. 
+I used the FlySky FS-I6 radio. In order to bind the radio, place the bind plug on the receiver, power it up from the board (connected to RX 1). Power on your radio while holding the bind button. You should hear a beep and see RX Bound immediately. If it's not binding, go into your radio setup (hold down the OK button) and make sure that AFHDS is enabled. 
 
 Bind procedure here:
 https://www.youtube.com/watch?v=xRmlNQ3M3zE
@@ -115,8 +117,14 @@ https://www.youtube.com/watch?v=xRmlNQ3M3zE
 Setting up a new model:
 https://www.youtube.com/watch?v=9-Z0rTVEkHI
 
+# RC Controller / Receiver Troubleshooting
 
+If one of your directions are reversed (forward goes reverse, or left goes right), you'll need to reverse the channels. This can be done fairly easy by going into the controller setup menu by holding "OK" and then browsing to Function Setup, and then choose "reverse". Toggle the channel you need to reverse by hitting the up/down button. Long press "Cancel" to save (hold for maybe 5 seconds).
 
+Here is a video that shows how to reverse channels:
+https://www.youtube.com/watch?v=-xNJZd9CGNg&t=60s
+
+If your controller is going forward and reverse when you intend to go sideways or backwards, the easiest way to fix that is by swapping the channels that connect from the RC receiver to the control board.
 
 
 
