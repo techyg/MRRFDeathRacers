@@ -119,12 +119,13 @@ https://www.youtube.com/watch?v=9-Z0rTVEkHI
 
 # RC Controller / Receiver Troubleshooting
 
-If one of your directions are reversed (forward goes reverse, or left goes right), you'll need to reverse the channels. This can be done fairly easy by going into the controller setup menu by holding "OK" and then browsing to Function Setup, and then choose "reverse". Toggle the channel you need to reverse by hitting the up/down button. Long press "Cancel" to save (hold for maybe 5 seconds).
+The wiring diagram assumes that you are using channel 1 for steering (left/right) and channel 2 for forward/reverse. This is the default order for many radios that are using mode 2, including the FlySky FS-i6. Since these radios are designed for airplanes/drones by default, channel 1 will be referred to as "pitch" (or Aeleron) and channel 2 "roll" (or Elevator). This channel mapping is commonly referred to as "AETR" order (Aileron, Elevator, Throttle, Rudder). In the AETR channel map, the first two channels map to the gimbal on the right hand side of the radio which is what is intended for this project. Other radios, such as the FrSky Taranis and Spektrum DX6 may different channel orders (TAER), so you will either have to remap the channels in the radio or plug a different channel (for example, 2 and 3) into the motor control board for control of the tank. 
 
-Here is a video that shows how to reverse channels:
+If one of your directions are reversed (forward goes reverse, or left goes right), you'll need to reverse the channels. For the FlySky FS-i6 this can be done fairly easy by going into the controller setup menu by holding "OK" and then browsing to Function Setup, and then choose "reverse". Toggle the channel you need to reverse by hitting the up/down button. Long press "Cancel" to save (hold for maybe 5 seconds).
+
+Here is a video that shows how to reverse channels (FlySky FS-i6):
 https://www.youtube.com/watch?v=-xNJZd9CGNg&t=60s
 
 If your controller is going forward and reverse when you intend to go sideways or backwards, the easiest way to fix that is by swapping the channels that connect from the RC receiver to the control board.
 
-
-
+If you run into issues configuring your Radio, ask in the Deathracer Facebook group.
