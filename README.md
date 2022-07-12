@@ -82,6 +82,7 @@ Plan to budget around $300-$500 for this build. You will be on the lower end of 
 * 100pcs 2mm Rod Axle: https://www.amazon.com/dp/B07D2WSF29 
 * XT60 Connectors for Battery: https://www.amazon.com/dp/B07VRZR5TL/
 * FlySky 6 Channel Radio with Reciever: https://www.amazon.com/dp/B0744DPPL8/
+* Recommended: Lipo Battery Low Voltage Alarm: https://www.amazon.com/dp/B08VW92TYD/
 * 6mm Bar : (TBD) For Bludgers
 
 # <b>Step 4. Print your parts!</b>
