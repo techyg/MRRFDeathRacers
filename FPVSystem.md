@@ -18,6 +18,8 @@ This system should have the capability to work with either Digital or Analog FPV
 # Analog FPV System BOM (Budget, but low quality)
 * Emax Transporter Goggles - https://amzn.to/3z6v5bV
 * TS832 48ch Video Transmitter - https://amzn.to/3PY30dP 
+* Pan and Tilt Servo Mount - https://amzn.to/3cGWCsX
+* Analog FPV Camera - https://amzn.to/3b2d6eG
 * At least a 16GB SD Card - https://amzn.to/3BiqK8o
  
 # STL files  
